@@ -1,0 +1,11 @@
+Package: m6APrediction
+Title: Machine Learning-Based Prediction of m6A RNA Modification Sites
+Version: 1.0.0
+Author: Keyu Fang [aut, cre]
+Maintainer: Keyu Fang <Keyu.Fang22@student.xjtlu.edu.cn>
+Description: This package provides machine learning tools to predict m6A RNA modification site.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 3.5.0)
+Imports: randomForest
+RoxygenNote: 7.3.3
